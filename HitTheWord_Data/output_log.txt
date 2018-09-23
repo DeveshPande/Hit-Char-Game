@@ -1,0 +1,109 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1119 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.081 seconds
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\DELL\Downloads\Compressed\Hit the word\HitTheWord_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.228591 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24b4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.647897 ms
+Green
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 929.
+Total: 0.558263 ms (FindLiveObjects: 0.068369 ms CreateObjectMapping: 0.056546 ms MarkObjects: 0.358296 ms  DeleteObjects: 0.074537 ms)
+
+Stringlenght;0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+mainstringindex0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+stilenght3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stringlenght;0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+mainstringindex0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+stilenght3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stringlenght;0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+mainstringindex0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+stilenght3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stringlenght;0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+mainstringindex0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+stilenght3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stringlenght;0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+mainstringindex0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+stilenght3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.949296 ms
+Green
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 929.
+Total: 1.011146 ms (FindLiveObjects: 0.098698 ms CreateObjectMapping: 0.098184 ms MarkObjects: 0.790102 ms  DeleteObjects: 0.022618 ms)
+
